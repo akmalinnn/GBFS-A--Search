@@ -6,4 +6,4 @@
 
  ![image](https://user-images.githubusercontent.com/22763869/230754481-da693d92-f2d3-4d0a-8b18-f6f344f2343c.png)
  
-##Algoritma Greedy-best-first search & A* pada kasus Peta Jawa Timur
+## Algoritma Greedy-best-first search & A* pada kasus Peta Jawa Timur
